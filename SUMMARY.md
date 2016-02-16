@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](swift-evolution/schedule.md)
 * [0001-Keywords As Argument Labels](swift-evolution/proposals/0001-keywords-as-argument-labels.md)
 * [0002-Remove Currying](swift-evolution/proposals/0002-remove-currying.md)
 * [0003-Remove Var Parameters Patterns](swift-evolution/proposals/0003-remove-var-parameters-patterns.md)
