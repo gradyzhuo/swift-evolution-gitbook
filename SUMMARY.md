@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [0001-Keywords As Argument Labels](swift-evolution/proposals/0001-keywords-as-argument-labels.md)
 * [0002-Remove Currying](swift-evolution/proposals/0002-remove-currying.md)
 * [0003-Remove Var Parameters Patterns](swift-evolution/proposals/0003-remove-var-parameters-patterns.md)
@@ -22,4 +23,4 @@
 * [0020-If Swift Version](swift-evolution/proposals/0020-if-swift-version.md)
 * [0021-Generalized Naming](swift-evolution/proposals/0021-generalized-naming.md)
 * [0022-objc selectors](swift-evolution/proposals/0022-objc-selectors.md)
-* [0023-test objc selectors](swift-evolution/proposals/0022-objc-selectors.md)
+
