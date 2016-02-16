@@ -23,4 +23,5 @@
 * [0020-If Swift Version](swift-evolution/proposals/0020-if-swift-version.md)
 * [0021-Generalized Naming](swift-evolution/proposals/0021-generalized-naming.md)
 * [0022-objc selectors](swift-evolution/proposals/0022-objc-selectors.md)
+* [0023-testobjc selectors](swift-evolution/proposals/0022-objc-selectors.md)
 
